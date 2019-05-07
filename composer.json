@@ -1,4 +1,5 @@
 {
+    "name": "dwo/traits",
     "type": "project",
     "license": "MIT",
     "require": {

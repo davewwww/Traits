@@ -2,6 +2,14 @@
 
 namespace Dwo\Traits;
 
+/**
+ * Trait StatusTrait
+ *
+ * status == how are you? [good/bad]
+ * state == what are you doing? [resting/working]
+ *
+ * @package Dwo\Traits
+ */
 trait StatusTrait
 {
     /** @var string|null */
